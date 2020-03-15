@@ -1,0 +1,1 @@
+Organizing and storing data in computers that can perform operations on the stored data more efficiently. 
